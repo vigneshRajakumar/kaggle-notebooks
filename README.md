@@ -13,4 +13,4 @@ built with `sklearn`
 - `KNeighborsClassifier`
 - `GridSearchCV`
 
-> Latest Score: 74%
+> Latest Score: 76%
